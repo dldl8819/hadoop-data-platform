@@ -1,7 +1,7 @@
-﻿# 2-7-6 Building and Submitting Spark Applications
-## Building Spark Applications
-## Running on Standalone Cluster
-## Running with spark submit
-## Running on Mesos
-## Running on YARN
-## Using JDBC ODBC Server
+﻿# 2.7.6 스파크 애플리케이션을 만들고 서밋하기
+## 2.7.6.1 스파크 애플리케이션 만들기
+## 2.7.6.2 독립적 스파크 클러스터에서 애플리케이션 실행하기
+## 2.7.6.3 spark-submit으로 애플리케이션 실행하기
+## 2.7.6.4 메소스에서 스파크 애플리케이션 실행하기
+## 2.7.6.5 얀에서 하둡 클러스터에서 스파크 애플리케이션 실행하기
+## 2.7.6.6 JDBC/ODBC 서버 사용하기

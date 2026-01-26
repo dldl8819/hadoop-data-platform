@@ -1,9 +1,9 @@
-﻿# 2-5-1 MapReduce Framework
-## MapReduce Model
-## How MapReduce Works
-## MapReduce Job Processing
-## Simple MapReduce Program
-## Understanding Hadoop Job Processing WordCount
-## MapReduce Input and Output Directories
-## How Hadoop Displays Job Details
-## Hadoop Streaming
+﻿# 2.5.1 맵리듀스 프레임워크
+## 2.5.1.1 맵리듀스 모델
+## 2.5.1.2 맵리듀스가 동작하는 방식
+## 2.5.1.3 맵리듀스 잡 프로세싱
+## 2.5.1.4 간단한 맵리듀스 프로그램
+## 2.5.1.5 하둡의 작업 처리 이해하기 - WordCount 프로그램 실행
+## 2.5.1.6 맵리듀스 입력과 출력 디렉토리
+## 2.5.1.7 하둡이 잡의 상세 정보를 보여주는 방법
+## 2.5.1.8 하둡 스트리밍

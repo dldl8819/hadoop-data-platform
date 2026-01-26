@@ -1,2 +1,2 @@
-﻿# 1-4-3 Building a Multi Node Cluster
-## How to Build a Test Cluster
+﻿# 1.4.3 멀티노드 클러스터 만들기
+## 1.4.3.1 테스트 클러스터를 만드는 방법

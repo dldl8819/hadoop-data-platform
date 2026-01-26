@@ -1,3 +1,3 @@
-﻿# 2-7-3 Spark Application Architecture
-## Spark Terminology
-## Spark Application Components
+﻿# 2.7.3 스파크 애플리케이션의 아키텍처
+## 2.7.3.1 스파크 용어
+## 2.7.3.2 스파크 애플리케이션의 컴포넌트

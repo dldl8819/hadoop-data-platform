@@ -1,3 +1,3 @@
-﻿# 1-3-1 Hadoop Distributions and Installation Types
-## Hadoop Distributions
-## Hadoop Installation Types
+﻿# 1.3.1 하둡 배포판과 설치 타입
+## 1.3.1.1 하둡 배포판
+## 1.3.1.2 하둡 설치 타입

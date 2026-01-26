@@ -1,1 +1,1 @@
-﻿# Clone a Linux Server
+﻿# A.3 리눅스 서버 복제하기

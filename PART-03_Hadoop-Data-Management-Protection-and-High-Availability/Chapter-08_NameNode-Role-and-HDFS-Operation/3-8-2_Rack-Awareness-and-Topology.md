@@ -1,3 +1,3 @@
-﻿# 3-8-2 Rack Awareness and Topology
-## Configuring Rack Awareness
-## Finding Rack Information
+﻿# 3.8.2 랙 어웨어니스와 토폴로지
+## 3.8.2.1 클러스터에 랙 어웨어니스 설정하기
+## 3.8.2.2 클러스터의 랙 정보 찾기

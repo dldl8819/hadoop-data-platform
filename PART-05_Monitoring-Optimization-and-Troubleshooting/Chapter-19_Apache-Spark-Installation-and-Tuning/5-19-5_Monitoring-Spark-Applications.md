@@ -1,5 +1,5 @@
-﻿# 5-19-5 Monitoring Spark Applications
-## Using Spark Web UI
-## Spark System and Metrics REST API
-## Spark History Server on YARN
-## Track Jobs from CLI
+﻿# 5.19.5 스파크 애플리케이션 모니터링하기
+## 5.19.5.1 스파크 웹 UI를 이용해 성능 알아보기
+## 5.19.5.2 스파크 시스템과 지표 REST API
+## 5.19.5.3 얀에서 동작하는 스파크 히스토리 서버
+## 5.19.5.4 명령 행으로 잡 추적하기

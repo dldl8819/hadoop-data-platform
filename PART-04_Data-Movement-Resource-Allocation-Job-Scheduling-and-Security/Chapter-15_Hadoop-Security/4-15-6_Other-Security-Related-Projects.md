@@ -1,3 +1,3 @@
-﻿# 4-15-6 Other Security Related Projects
-## Secure Hadoop Infrastructure with Knox
-## Apache Ranger for Security Management
+﻿# 4.15.6 기타 하둡의 보안과 관련 프로젝트들
+## 4.15.6.1 녹스 게이트웨이로 하둡 인프라 보안 강화하기
+## 4.15.6.2 보안 관리를 위한 아파치 레인저

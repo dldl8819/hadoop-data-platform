@@ -1,6 +1,6 @@
-﻿# 5-21-3 JVM Memory Allocation and GC Strategy
-## Understanding JVM GC
-## Optimizing GC
-## Analyzing Memory Usage
-## Out of Memory Errors
-## ApplicationMaster Memory Issues
+﻿# 5.21.3 JVM 메모리 할당과 가비지 컬렉션 전략
+## 5.21.3.1 JVM 가비지 컬렉션 이해하기
+## 5.21.3.2 가비지 컬렉션 최적화하기
+## 5.21.3.3 메모리 사용량 분석하기
+## 5.21.3.4 메모리 부족 에러(OOM)
+## 5.21.3.5 애플리케이션마스터 메모리 이슈들

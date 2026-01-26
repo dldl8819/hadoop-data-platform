@@ -1,5 +1,5 @@
-﻿# 2-5-2 Apache Hive
-## Hive Data Organization
-## Working with Hive Tables
-## Loading Data into Hive
-## Querying Hive
+﻿# 2.5.2 아파치 하이브
+## 2.5.2.1 하이브의 데이터 구성
+## 2.5.2.2 하이브 테이블로 작업하기
+## 2.5.2.3 데이터를 하이브로 로딩하기
+## 2.5.2.4 하이브 쿼리하기

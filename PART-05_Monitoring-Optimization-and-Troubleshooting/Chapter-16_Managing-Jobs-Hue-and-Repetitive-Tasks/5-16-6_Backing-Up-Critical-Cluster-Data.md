@@ -1,3 +1,3 @@
-﻿# 5-16-6 Backing Up Critical Cluster Data
-## Backup HDFS Metadata
-## Backup Metastore Database
+﻿# 5.16.6 중요한 클러스터 데이터 백업하기
+## 5.16.6.1 HDFS 메타데이터 백업하기
+## 5.16.6.2 메타스토어 데이터베이스 백업하기

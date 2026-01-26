@@ -1,4 +1,4 @@
-﻿# 5-19-4 Storage Formats and Compression
-## Storage Formats
-## File Sizes
-## Compression
+﻿# 5.19.4 저장 포맷과 데이터 압축하기
+## 5.19.4.1 저장 포맷
+## 5.19.4.2 파일 사이즈
+## 5.19.4.3 압축

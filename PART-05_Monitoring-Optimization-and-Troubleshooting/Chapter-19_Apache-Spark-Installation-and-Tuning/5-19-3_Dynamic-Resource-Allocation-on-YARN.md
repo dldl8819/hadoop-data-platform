@@ -1,4 +1,4 @@
-﻿# 5-19-3 Dynamic Resource Allocation on YARN
-## Dynamic vs Static Allocation
-## How Spark Performs Dynamic Allocation
-## Enable Dynamic Allocation
+﻿# 5.19.3 얀에서 스파크 실행 시 동적 리소스 할당하기
+## 5.19.3.1 동적 리소스 할당과 정적 리소스 할당
+## 5.19.3.2 스파크가 동적 리소스 할당을 하는 방법
+## 5.19.3.3 동적 리소스 할당 활성화하기

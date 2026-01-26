@@ -1,3 +1,3 @@
-﻿# 5-18-2 Settings for Efficient Performance
-## Speculative Execution
-## Reducing System IO Load
+﻿# 5.18.2 효율적인 성능을 위한 설정
+## 5.18.2.1 투기적 실행(Speculative Execution)
+## 5.18.2.2 시스템의 I/O 로드 줄이기

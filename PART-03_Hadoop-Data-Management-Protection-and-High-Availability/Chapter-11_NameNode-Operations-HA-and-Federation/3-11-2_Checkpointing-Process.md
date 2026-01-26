@@ -1,5 +1,5 @@
-﻿# 3-11-2 Checkpointing Process
-## Secondary Checkpoint Backup and Standby Nodes
-## Configure Checkpoint Intervals
-## Manage Checkpoint Performance
-## Checkpoint Mechanics
+﻿# 3.11.2 체크포인팅 프로세스
+## 3.11.2.1 세컨더리, 체크포인트, 백업 그리고 스탠바이 노드들
+## 3.11.2.2 체크포인팅 주기 설정
+## 3.11.2.3 체크포인트 성능 관리하기
+## 3.11.2.4 체크포인팅의 메커니즘

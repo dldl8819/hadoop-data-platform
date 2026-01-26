@@ -1,3 +1,3 @@
-﻿# 4-14-6 Creating Oozie Workflows
-## Configure Control Nodes
-## Configure Jobs
+﻿# 4.14.6 우지 워크플로 생성하기
+## 4.14.6.1 컨트롤 노드 설정하기
+## 4.14.6.2 잡 설정하기

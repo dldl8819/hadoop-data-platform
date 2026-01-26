@@ -1,3 +1,3 @@
-﻿# 4-15-4 Auditing Hadoop
-## Audit HDFS Operations
-## Audit YARN Operations
+﻿# 4.15.4 하둡 감시하기
+## 4.15.4.1 HDFS 오퍼레이션 감시
+## 4.15.4.2 YARN 오퍼레이션 감시

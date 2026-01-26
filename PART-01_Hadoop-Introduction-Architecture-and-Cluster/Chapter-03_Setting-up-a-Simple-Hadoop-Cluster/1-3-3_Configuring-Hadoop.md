@@ -1,11 +1,11 @@
-﻿# 1-3-3 Configuring Hadoop
-## Environment Configuration Files
-## Read Only Default Configuration
-## Site Configuration Files
-## Other Hadoop Configuration Files
-## Configuration File Precedence
-## Variable Expansion and Configuration Parameters
-## Hadoop Daemon Environment Configuration
-## Configuring core site xml
-## Configuring mapred site xml
-## Configuring yarn site xml
+﻿# 1.3.3 하둡 설정하기
+## 1.3.3.1 환경 설정 파일
+## 1.3.3.2 읽기 전용 디폴트 설정 파일
+## 1.3.3.3 사이트 설정 파일
+## 1.3.3.4 이외의 하둡 관련 설정 파일
+## 1.3.3.5 설정 파일 간의 설정 우선순위
+## 1.3.3.6 변수 확장과 설정 매개변수
+## 1.3.3.7 하둡 데몬 환경 설정
+## 1.3.3.8 core-site.xml 파일로 코어 하둡 속성 설정하기
+## 1.3.3.9 mapred-site.xml 파일로 맵리듀스 설정하기
+## 1.3.3.10 yarn-site.xml로 얀 설정하기

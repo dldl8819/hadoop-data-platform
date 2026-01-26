@@ -1,3 +1,3 @@
-﻿# 3-8-4 How Clients Read and Write HDFS Data
-## How Clients Read HDFS Data
-## How Clients Write HDFS Data
+﻿# 3.8.4 클라이언트가 HDFS 데이터를 읽고 쓰는 방식
+## 3.8.4.1 클라이언트가 HDFS 데이터를 읽는 방식
+## 3.8.4.2 클라이언트가 HDFS에 데이터를 쓰는 방식

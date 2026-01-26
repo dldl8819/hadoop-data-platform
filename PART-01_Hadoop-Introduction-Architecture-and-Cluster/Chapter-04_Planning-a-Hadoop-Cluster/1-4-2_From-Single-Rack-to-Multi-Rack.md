@@ -1,7 +1,7 @@
-﻿# 1-4-2 From Single Rack to Multi Rack
-## Sizing a Hadoop Cluster
-## General Rules for CPU Memory and Storage
-## Special Considerations for Master Nodes
-## Recommended Server Sizes
-## Scaling the Cluster
-## Guidelines for Large Clusters
+﻿# 1.4.2 싱글 랙에서 멀티 랙으로 가기
+## 1.4.2.1 하둡 클러스터 크기 결정하기
+## 1.4.2.2 CPU, 메모리 그리고 스토리지를 결정하는 일반적인 원칙들
+## 1.4.2.3 마스터 노드에 대해 특별히 고려해야 할 점
+## 1.4.2.4 서버 사이즈에 대한 추천
+## 1.4.2.5 클러스터 확장하기
+## 1.4.2.6 큰 규모의 클러스터를 위한 가이드라인

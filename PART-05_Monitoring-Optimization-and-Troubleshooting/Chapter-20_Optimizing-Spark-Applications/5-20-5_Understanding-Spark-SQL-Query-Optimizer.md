@@ -1,4 +1,4 @@
-﻿# 5-20-5 Understanding Spark SQL Query Optimizer
-## Optimizer Phases
-## Speculative Execution in Spark
-## Importance of Data Locality
+﻿# 5.20.5 스파크의 SQL Query 옵티마이저 이해하기
+## 5.20.5.1 옵티마이저 단계 이해하기
+## 5.20.5.2 스파크의 투기적 실행 기능
+## 5.20.5.3 데이터 지역화의 중요성

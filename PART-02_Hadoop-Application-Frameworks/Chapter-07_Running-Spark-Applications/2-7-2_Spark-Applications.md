@@ -1,5 +1,5 @@
-﻿# 2-7-2 Spark Applications
-## RDD Basics
-## RDD Creation
-## RDD Operations
-## RDD Persistence
+﻿# 2.7.2 스파크 애플리케이션
+## 2.7.2.1 RDD의 기초
+## 2.7.2.2 RDD 생성
+## 2.7.2.3 RDD 오퍼레이션
+## 2.7.2.4 RDD 저장

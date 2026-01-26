@@ -1,5 +1,5 @@
-﻿# 3-9-5 Rebalancing HDFS Data
-## Why HDFS Becomes Unbalanced
-## Run the Balancer
-## Use hdfs dfsadmin for Balancing
-## When to Run the Balancer
+﻿# 3.9.5 HDFS 데이터 리밸런싱하기
+## 3.9.5.1 HDFS가 불균형 상태가 된 이유
+## 3.9.5.2 HDFS 데이터의 균형을 맞추기 위해 밸런서 실행하기
+## 3.9.5.3 hdfs dfsadmin을 이용해 쉽게 작업하기
+## 3.9.5.4 밸런서 툴을 실행해야 할 시점

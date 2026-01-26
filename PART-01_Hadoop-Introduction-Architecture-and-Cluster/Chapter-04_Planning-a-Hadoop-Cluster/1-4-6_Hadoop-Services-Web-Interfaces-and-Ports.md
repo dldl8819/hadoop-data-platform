@@ -1,4 +1,4 @@
-﻿# 1-4-6 Hadoop Services Web Interfaces and Ports
-## Service Configuration and Web Interfaces
-## Configure Hadoop Service Ports
-## Hadoop Client
+﻿# 1.4.6 하둡 서비스, 웹 인터페이스 그리고 포트 설정하기
+## 1.4.6.1 서비스 설정과 웹 인터페이스
+## 1.4.6.2 하둡 서비스 포트 설정하기
+## 1.4.6.3 하둡 클라이언트

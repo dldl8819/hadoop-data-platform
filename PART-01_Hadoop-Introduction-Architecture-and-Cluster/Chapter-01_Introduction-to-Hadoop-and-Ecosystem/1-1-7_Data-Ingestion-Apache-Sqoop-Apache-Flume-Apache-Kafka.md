@@ -1,1 +1,1 @@
-﻿# 1-1-7 Data Ingestion Apache Sqoop Apache Flume Apache Kafka
+﻿# 1.1.7 데이터 통합: 아파치 스쿱, 아파치 플룸, 아파치 카프카

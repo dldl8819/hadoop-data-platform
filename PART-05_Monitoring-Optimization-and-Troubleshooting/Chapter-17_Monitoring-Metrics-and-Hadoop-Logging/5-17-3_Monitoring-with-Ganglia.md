@@ -1,4 +1,4 @@
-﻿# 5-17-3 Monitoring with Ganglia
-## Ganglia Architecture
-## Configure Ganglia and Hadoop Integration
-## Configure Hadoop Metrics
+﻿# 5.17.3 갱글리아를 이용한 모니터링
+## 5.17.3.1 갱글리아 아키텍처
+## 5.17.3.2 갱글리아와 하둡 통합 설정하기
+## 5.17.3.3 하둡 지표 설정하기

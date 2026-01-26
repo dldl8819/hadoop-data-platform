@@ -1,6 +1,6 @@
-﻿# 3-10-2 Data Compression
-## Common Compression Formats
-## Evaluating Compression Methods
-## Compression for MapReduce Pipelines
-## Compression for Spark
-## Data Serialization
+﻿# 3.10.2 데이터 압축
+## 3.10.2.1 일반적으로 쓰이는 압축 포맷들
+## 3.10.2.2 다양한 압축 방식에 대한 평가
+## 3.10.2.3 맵리듀스를 위한 여러 단계에서의 압축
+## 3.10.2.4 스파크를 위한 압축
+## 3.10.2.5 데이터 직렬화

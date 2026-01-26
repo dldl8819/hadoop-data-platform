@@ -1,5 +1,5 @@
-﻿# 1-3-4 Operating a New Hadoop Cluster
-## Format the Distributed File System
-## Start HDFS and YARN Services
-## Verify Service Status
-## Stop Services
+﻿# 1.3.4 새로운 하둡 클러스터 운영하기
+## 1.3.4.1 분산 파일 시스템 포맷하기
+## 1.3.4.2 HDFS와 얀 서비스 시작하기
+## 1.3.4.3 서비스 동작 여부 확인하기
+## 1.3.4.4 서비스 중지하기

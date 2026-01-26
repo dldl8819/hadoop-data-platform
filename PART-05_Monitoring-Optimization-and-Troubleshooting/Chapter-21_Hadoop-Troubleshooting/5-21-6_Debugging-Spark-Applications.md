@@ -1,4 +1,4 @@
-﻿# 5-21-6 Debugging Spark Applications
-## Viewing Logs with Log Aggregation
-## Viewing Logs when Log Aggregation is Disabled
-## Rechecking Execution Environment
+﻿# 5.21.6 스파크 애플리케이션 디버깅
+## 5.21.6.1 로그 어그리게이션으로 로그 보기
+## 5.21.6.2 로그 어그리게이션이 비활성화돼 있을 때 로그 보기
+## 5.21.6.3 실행 환경 다시 보기

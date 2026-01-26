@@ -1,5 +1,5 @@
-﻿# 3-9-1 Managing HDFS with Commands
-## Manage HDFS with hdfs dfs
-## List HDFS Files and Directories
-## Remove HDFS Files and Directories
-## Change File and Directory Ownership
+﻿# 3.9.1 HDFS를 HDFS 셸 명령으로 관리하기
+## 3.9.1.1 hdfs dfs 유틸리티를 이용해 HDFS 관리하기
+## 3.9.1.2 HDFS 파일과 디렉토리 목록 구하기
+## 3.9.1.3 HDFS 파일과 디렉토리 제거하기
+## 3.9.1.4 파일과 디렉토리의 소유권 변경하기

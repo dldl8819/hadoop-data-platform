@@ -1,3 +1,3 @@
-﻿# 4-14-3 Installing Oozie on a Cluster
-## Install and Configure Oozie
-## Hadoop Configuration for Oozie
+﻿# 4.14.3 클러스터에 우지 설치하기
+## 4.14.3.1 우지 설치와 설정하기
+## 4.14.3.2 우지를 위한 하둡 설정

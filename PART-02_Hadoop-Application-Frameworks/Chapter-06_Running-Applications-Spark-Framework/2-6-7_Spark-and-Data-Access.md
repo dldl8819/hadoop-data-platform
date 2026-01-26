@@ -1,4 +1,4 @@
-﻿# 2-6-7 Spark and Data Access
-## Load Data from Linux File System
-## Load Data from HDFS
-## Load Data from Relational Databases
+﻿# 2.6.7 스파크와 데이터 액세스
+## 2.6.7.1 리눅스 파일 시스템에서 데이터 로드하기
+## 2.6.7.2 HDFS에서 데이터 로드하기
+## 2.6.7.3 관계형 데이터베이스에서 데이터 로드하기

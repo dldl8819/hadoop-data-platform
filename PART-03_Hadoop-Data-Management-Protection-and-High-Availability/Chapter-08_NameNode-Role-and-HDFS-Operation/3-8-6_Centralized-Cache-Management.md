@@ -1,8 +1,8 @@
-﻿# 3-8-6 Centralized Cache Management
-## Hadoop and OS Page Cache
-## Core Principles of Centralized Cache
-## How Centralized Cache Works
-## Cache Configuration
-## Cache Commands
-## Cache Pools
-## Using Cache
+﻿# 3.8.6 HDFS의 중앙집중적 캐시 관리
+## 3.8.6.1 하둡과 OS 페이지 캐시하기
+## 3.8.6.2 중앙 캐시 관리의 핵심 원리
+## 3.8.6.3 중앙 캐시 관리가 동작하는 방식
+## 3.8.6.4 캐시 설정
+## 3.8.6.5 캐시 명령
+## 3.8.6.6 캐시 풀
+## 3.8.6.7 캐시 사용하기

@@ -1,6 +1,6 @@
-﻿# 3-11-4 Configuring HDFS High Availability
-## HA Architecture QJM
-## Use ZooKeeper as Arbiter
-## Configure HDFS HA Quorum Cluster
-## Install HA NameNodes
-## Manual and Automatic HA Failover
+﻿# 3.11.4 HDFS 고가용성 설정
+## 3.11.4.1 네임노드의 HA 아키텍처(QJM)
+## 3.11.4.2 아파치 주키퍼를 중재자로 사용하기
+## 3.11.4.3 HDFS HA Quorum 클러스터 설정하기
+## 3.11.4.4 고가용 네임노드 설치하기
+## 3.11.4.5 HA의 수동 전환 및 자동 전환

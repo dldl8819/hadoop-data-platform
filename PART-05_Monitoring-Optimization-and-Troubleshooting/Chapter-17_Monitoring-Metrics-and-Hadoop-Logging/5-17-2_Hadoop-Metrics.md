@@ -1,4 +1,4 @@
-﻿# 5-17-2 Hadoop Metrics
-## Types of Hadoop Metrics
-## Using Hadoop Metrics
-## Collecting File System Metrics
+﻿# 5.17.2 하둡의 평가 지표
+## 5.17.2.1 하둡 지표 종류
+## 5.17.2.2 하둡 지표 이용하기
+## 5.17.2.3 파일 시스템의 지표 수집하기

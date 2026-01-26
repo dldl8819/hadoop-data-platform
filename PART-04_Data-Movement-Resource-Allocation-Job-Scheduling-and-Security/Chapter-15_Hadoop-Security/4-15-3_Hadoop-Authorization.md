@@ -1,4 +1,4 @@
-﻿# 4-15-3 Hadoop Authorization
-## HDFS Permissions
-## Service Level Authorization
-## Rule Based Authorization with Apache Sentry
+﻿# 4.15.3 하둡 인가
+## 4.15.3.1 HDFS 퍼미션
+## 4.15.3.2 서비스 레벨 인가
+## 4.15.3.3 아파치 센트리를 이용한 룰 기반 인가 방식

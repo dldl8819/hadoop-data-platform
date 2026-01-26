@@ -1,3 +1,3 @@
-﻿# 5-19-6 Garbage Collection Tuning
-## How GC Works
-## Collecting GC Statistics
+﻿# 5.19.6 가비지 컬렉션 튜닝
+## 5.19.6.1 가비지 컬렉션의 동작
+## 5.19.6.2 GC 통계 정보를 수집하는 방법

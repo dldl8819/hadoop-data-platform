@@ -1,5 +1,5 @@
-﻿# 4-12-6 Processing Data with Kafka
-## Kafka Benefits
-## How Kafka Works
-## Configure Kafka Cluster
-## Integrate Kafka with Hadoop and Storm
+﻿# 4.12.6 카프카를 이용해 데이터 처리하기
+## 4.12.6.1 카프카가 제공하는 이점들
+## 4.12.6.2 카프카 동작 방식
+## 4.12.6.3 카프카 클러스터 설정하기
+## 4.12.6.4 하둡과 스톰을 사용해 카프카와 통합하기

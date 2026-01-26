@@ -1,1 +1,1 @@
-﻿# 2-7-4 Running Spark Applications Interactively
+﻿# 2.7.4 인터랙티브하게 스파크 애플리케이션 실행하기

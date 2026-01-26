@@ -1,3 +1,3 @@
-﻿# 3-9-6 Reclaiming Free Space in HDFS
-## Remove Files and Directories
-## Reduce Replication Factor
+﻿# 3.9.6 HDFS 여분의 공간 확보하기(공간 재생)
+## 3.9.6.1 파일과 디렉토리 제거하기
+## 3.9.6.2 복제 계수 낮추기

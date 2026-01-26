@@ -1,6 +1,6 @@
-﻿# 4-13-3 Capacity Scheduler
-## Queues and Subqueues
-## How Clusters Allocate Resources
-## Application Preemption
-## Enable Capacity Scheduler
-## Typical Capacity Scheduler Setup
+﻿# 4.13.3 Capacity 스케줄러
+## 4.13.3.1 큐와 서브 큐
+## 4.13.3.2 클러스터가 리소스를 할당하는 방법
+## 4.13.3.3 애플리케이션 선점하기
+## 4.13.3.4 Capacity 스케줄러 활성화하기
+## 4.13.3.5 전형적인 Capacity 스케줄러

@@ -1,1 +1,1 @@
-﻿# Install Oracle Enterprise Linux
+﻿# A.2 오라클 엔터프라이즈 리눅스 설치하기

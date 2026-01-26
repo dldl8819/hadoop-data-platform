@@ -1,3 +1,3 @@
-﻿# 5-17-6 Monitoring Hadoop Components
-## Monitor Hive
-## Monitor Spark
+﻿# 5.17.6 하둡 컴포넌트 모니터링
+## 5.17.6.1 하이브 모니터링하기
+## 5.17.6.2 스파크 모니터링하기

@@ -1,4 +1,4 @@
-﻿# 1-1-4 What Hadoop Administrators Do
-## Hadoop Administration A New Paradigm
-## What You Need to Know to Manage Hadoop
-## Hadoop Administrator Toolset
+﻿# 1.1.4 하둡 관리자들이 하는 일
+## 1.1.4.1 하둡 관리: 새로운 패러다임
+## 1.1.4.2 하둡을 관리하기 위해 알아야 하는 것
+## 1.1.4.3 하둡 관리자 툴세트

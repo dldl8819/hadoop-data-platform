@@ -1,4 +1,4 @@
-﻿# 3-11-1 Understanding NameNode Operations
-## HDFS Metadata
-## NameNode Startup Process
-## NameNode and DataNode Collaboration
+﻿# 3.11.1 네임노드 오퍼레이션 이해하기
+## 3.11.1.1 HDFS 메타데이터
+## 3.11.1.2 네임노드 시작 과정
+## 3.11.1.3 네임노드와 데이터노드 간의 협업 과정

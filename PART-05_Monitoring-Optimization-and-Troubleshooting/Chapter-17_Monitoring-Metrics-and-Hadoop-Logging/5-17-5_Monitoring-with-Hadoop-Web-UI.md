@@ -1,4 +1,4 @@
-﻿# 5-17-5 Monitoring with Hadoop Web UI
-## Monitor Jobs with ResourceManager Web UI
-## JobHistory Server Web UI
-## Monitor with NameNode Web UI
+﻿# 5.17.5 하둡 웹 UI로 모니터링하기
+## 5.17.5.1 리소스매니저 웹 UI로 잡 모니터링하기
+## 5.17.5.2 잡히스토리서버 웹 UI
+## 5.17.5.3 네임노드 웹 UI를 이용한 모니터링

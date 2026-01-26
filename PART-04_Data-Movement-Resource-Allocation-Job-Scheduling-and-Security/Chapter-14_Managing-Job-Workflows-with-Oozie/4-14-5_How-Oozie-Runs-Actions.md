@@ -1,2 +1,2 @@
-﻿# 4-14-5 How Oozie Runs Actions
-## Configure Action Nodes
+﻿# 4.14.5 우지가 액션을 실행하는 방법
+## 4.14.5.1 액션 노드 설정하기

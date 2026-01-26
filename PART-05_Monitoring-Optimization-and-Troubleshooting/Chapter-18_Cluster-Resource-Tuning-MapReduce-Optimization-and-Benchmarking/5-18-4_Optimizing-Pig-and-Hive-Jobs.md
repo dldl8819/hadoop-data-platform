@@ -1,3 +1,3 @@
-﻿# 5-18-4 Optimizing Pig and Hive Jobs
-## Optimize Hive Jobs
-## Optimize Pig Jobs
+﻿# 5.18.4 피그와 하이브 잡 최적화하기
+## 5.18.4.1 하이브 잡 최적화
+## 5.18.4.2 피그 잡 최적화하기

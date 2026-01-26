@@ -1,5 +1,5 @@
-﻿# 1-2-3 Data Storage HDFS
-## HDFS Features
-## HDFS Architecture
-## HDFS File System
-## NameNode Operations
+﻿# 1.2.3 데이터 스토리지 - 하둡 분산 파일 시스템
+## 1.2.3.1 HDFS 특징들
+## 1.2.3.2 HDFS 아키텍처
+## 1.2.3.3 HDFS 파일 시스템
+## 1.2.3.4 네임노드 오퍼레이션

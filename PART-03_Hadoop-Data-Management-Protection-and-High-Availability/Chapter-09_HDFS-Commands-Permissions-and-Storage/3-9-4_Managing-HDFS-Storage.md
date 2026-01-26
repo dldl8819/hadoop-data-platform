@@ -1,3 +1,3 @@
-﻿# 3-9-4 Managing HDFS Storage
-## Check HDFS Disk Usage
-## Set HDFS Quotas
+﻿# 3.9.4 HDFS 스토리지 관리하기
+## 3.9.4.1 HDFS 디스크 사용률 확인하기
+## 3.9.4.2 HDFS 스토리지에 쿼터 할당하기

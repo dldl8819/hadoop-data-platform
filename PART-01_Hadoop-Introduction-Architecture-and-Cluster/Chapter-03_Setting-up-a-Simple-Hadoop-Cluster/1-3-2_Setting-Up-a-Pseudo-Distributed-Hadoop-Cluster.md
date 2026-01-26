@@ -1,8 +1,8 @@
-﻿# 1-3-2 Setting Up a Pseudo Distributed Hadoop Cluster
-## Meeting OS Requirements
-## Kernel Parameter Tuning
-## SSH Configuration
-## Java Installation
-## Hadoop Software Installation
-## Create Hadoop User Account
-## Create Required Directories
+﻿# 1.3.2 가상 분산 하둡 클러스터 설정하기
+## 1.3.2.1 운영 시스템의 조건 충족시키기
+## 1.3.2.2 커널 매개변수의 수정
+## 1.3.2.3 SSH 설정
+## 1.3.2.4 자바 설치
+## 1.3.2.5 하둡 소프트웨어 설치
+## 1.3.2.6 하둡용 사용자 계정 생성
+## 1.3.2.7 필수 디렉토리 생성

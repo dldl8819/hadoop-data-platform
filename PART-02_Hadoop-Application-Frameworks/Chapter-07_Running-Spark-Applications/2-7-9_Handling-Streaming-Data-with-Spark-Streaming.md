@@ -1,3 +1,3 @@
-﻿# 2-7-9 Handling Streaming Data with Spark Streaming
-## How Spark Streaming Works
-## Spark Streaming WordCount
+﻿# 2.7.9 스파크 스트리밍으로 스트리밍 데이터 다루기
+## 2.7.9.1 스파크 스트리밍의 동작 방식
+## 2.7.9.2 WorkCount로 다시 보는 스파크 스트리밍

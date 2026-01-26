@@ -1,5 +1,5 @@
-﻿# 2-7-10 Processing Structured Data with Spark SQL
-## DataFrames
-## HiveContext and SQLContext
-## Integrating with Spark SQL
-## Creating DataFrames
+﻿# 2.7.10 스파크 SQL을 사용해 구조화된 데이터 처리하기
+## 2.7.10.1 데이터프레임
+## 2.7.10.2 HiveContext와 SQLContext
+## 2.7.10.3 스파크 SQL과 연동하기
+## 2.7.10.4 데이터프레임 생성

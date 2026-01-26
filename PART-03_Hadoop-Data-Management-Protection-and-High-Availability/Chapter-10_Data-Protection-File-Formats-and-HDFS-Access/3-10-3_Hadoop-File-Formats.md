@@ -1,8 +1,8 @@
-﻿# 3-10-3 Hadoop File Formats
-## Criteria for Choosing File Formats
-## File Formats Supported by Hadoop
-## Ideal File Formats
-## Small File Problem and File Combining
-## Use Federation NameNode for Small Files
-## Manage Small Files with HAR
-## Resolve Performance Issues from Small Files
+﻿# 3.10.3 하둡 파일 포맷
+## 3.10.3.1 바른 파일 포맷을 결정하는 기준
+## 3.10.3.2 하둡이 지원하는 파일 포맷들
+## 3.10.3.3 이상적인 파일 포맷
+## 3.10.3.4 하둡의 작은 파일 문제 그리고 파일 합치기
+## 3.10.3.5 작은 파일 문제를 극복하기 위한 연합된 네임노드 사용하기
+## 3.10.3.6 HAR을 이용해 작은 파일 관리하기
+## 3.10.3.7 작은 파일로 인한 성능 이슈 해결하기

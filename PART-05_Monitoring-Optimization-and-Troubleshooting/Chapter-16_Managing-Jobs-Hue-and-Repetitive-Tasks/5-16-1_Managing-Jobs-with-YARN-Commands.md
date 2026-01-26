@@ -1,8 +1,8 @@
-﻿# 5-16-1 Managing Jobs with YARN Commands
-## View YARN Applications
-## Check Application Status
-## Kill Running Applications
-## Check Node Status
-## Check YARN Queues
-## Fetch Application Logs
-## YARN Admin Commands
+﻿# 5.16.1 YARN 명령을 이용해 하둡 잡 관리하기
+## 5.16.1.1 얀 애플리케이션 보기
+## 5.16.1.2 애플리케이션의 상태 확인하기
+## 5.16.1.3 실행하고 있는 애플리케이션 중지하기
+## 5.16.1.4 노드의 상태 확인하기
+## 5.16.1.5 얀 큐 확인하기
+## 5.16.1.6 애플리케이션 로그 가져오기
+## 5.16.1.7 얀 관리를 위한 명령들

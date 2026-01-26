@@ -1,7 +1,7 @@
-﻿# 4-12-4 Processing Relational Data with Sqoop
-## Sqoop Architecture
-## Install Sqoop
-## Move Data with Sqoop
-## Import Data with Sqoop
-## Import Data into Hive
-## Export Data with Sqoop
+﻿# 4.12.4 스쿱으로 관계형 데이터베이스 데이터 처리하기
+## 4.12.4.1 스쿱 아키텍처
+## 4.12.4.2 스쿱 설치하기
+## 4.12.4.3 스쿱으로 데이터 이동하기
+## 4.12.4.4 스쿱으로 데이터 가져오기
+## 4.12.4.5 데이터를 하이브로 가져오기
+## 4.12.4.6 스쿱으로 데이터 내보내기

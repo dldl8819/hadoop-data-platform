@@ -1,8 +1,8 @@
-﻿# 5-17-4 Understanding Hadoop Logging
-## Hadoop Log Messages
-## Daemon and Application Logs and How to View
-## How Application Logging Works
-## What is Stored in NodeManager Log Directories
-## How Hadoop Determines HDFS Staging and Local Dirs
-## Store Job Logs in HDFS with Log Aggregation
-## Working with Hadoop Daemon Logs
+﻿# 5.17.4 하둡 로깅 이해하기
+## 5.17.4.1 하둡 로그 메시지
+## 5.17.4.2 데몬과 애플리케이션의 로그 그리고 로그를 보는 방법
+## 5.17.4.3 애플리케이션 로깅 동작 방식
+## 5.17.4.4 노드매니저 로그디렉토리에 저장되는 것들
+## 5.17.4.5 하둡이 잡을 실행할 때 HDFS 스테이징 디렉토리와 로컬 디렉토리를 얻는 방법
+## 5.17.4.6 로그 어그리게이션을 통해 잡 로그를 HDFS에 저장하기
+## 5.17.4.7 하둡 데몬 로그 다루기

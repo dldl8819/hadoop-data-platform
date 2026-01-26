@@ -1,4 +1,4 @@
-﻿# 5-20-2 Shuffle Operations and Minimizing Shuffles
-## Revisiting WordCount
-## Impact of Shuffle Operations
-## Configure Shuffle Parameters
+﻿# 5.20.2 셔플 오퍼레이션과 셔플을 최소화하는 방법
+## 5.20.2.1 WordCount 예제 다시 보기
+## 5.20.2.2 셔플 오퍼레이션의 영향
+## 5.20.2.3 셔플 매개변수 설정하기

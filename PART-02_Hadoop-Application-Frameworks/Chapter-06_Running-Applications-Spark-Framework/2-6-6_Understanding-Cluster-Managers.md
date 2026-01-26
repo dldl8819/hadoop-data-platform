@@ -1,6 +1,6 @@
-﻿# 2-6-6 Understanding Cluster Managers
-## Standalone Cluster Manager
-## Spark on Apache Mesos
-## Running Spark on YARN
-## How YARN and Spark Integrate
-## Configuring Spark on a Hadoop Cluster
+﻿# 2.6.6 클러스터 매니저 이해하기
+## 2.6.6.1 독립형 클러스터 매니저
+## 2.6.6.2 아파치 메소스를 이용하는 스파크
+## 2.6.6.3 얀에서 스파크 실행하기
+## 2.6.6.4 얀과 스파크가 함께 연동되는 방식
+## 2.6.6.5 하둡 클러스터에 스파크 설정하기

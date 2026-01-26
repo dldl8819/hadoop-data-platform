@@ -1,3 +1,3 @@
-﻿# 5-16-5 Managing MySQL Databases
-## Configure MySQL Database
-## Configure MySQL High Availability
+﻿# 5.16.5 MySQL 데이터베이스 관리하기
+## 5.16.5.1 MySQL 데이터베이스 설정하기
+## 5.16.5.2 MySQL 고가용 설정하기

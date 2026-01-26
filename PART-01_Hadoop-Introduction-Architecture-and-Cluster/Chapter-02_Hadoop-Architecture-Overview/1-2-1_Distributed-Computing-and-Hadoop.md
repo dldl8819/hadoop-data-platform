@@ -1,1 +1,1 @@
-﻿# 1-2-1 Distributed Computing and Hadoop
+﻿# 1.2.1 분산 컴퓨팅과 하둡

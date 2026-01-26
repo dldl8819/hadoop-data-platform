@@ -1,6 +1,6 @@
-﻿# 5-16-4 Performing Common Administration Tasks
-## Move NameNode to Another Host
-## Manage HA NameNodes
-## Use Shutdown Startup Scripts
-## HDFS Balancing
-## Balance DataNode Storage
+﻿# 5.16.4 일반적인 관리 작업 수행하기
+## 5.16.4.1 네임노드를 다른 호스트로 이전하기
+## 5.16.4.2 고가용(HA) 네임노드 관리하기
+## 5.16.4.3 클러스터 관리를 위해 Shutdown/Startup 스크립트 사용하기
+## 5.16.4.4 HDFS 밸런싱
+## 5.16.4.5 데이터노드의 스토리지 균형 잡 메우기

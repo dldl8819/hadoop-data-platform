@@ -1,3 +1,3 @@
-﻿# 2-6-5 Spark Execution Modes
-## Local Mode
-## Cluster Mode
+﻿# 2.6.5 스파크 실행 모드
+## 2.6.5.1 로컬 모드
+## 2.6.5.2 클러스터 모드

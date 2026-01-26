@@ -1,5 +1,5 @@
-﻿# 3-8-5 Understanding HDFS Recovery Processes
-## Generation Stamps
-## Lease Recovery
-## Block Recovery
-## Pipeline Recovery
+﻿# 3.8.5 HDFS 복구 프로세스의 이해
+## 3.8.5.1 생성 스템프
+## 3.8.5.2 사용권 복구
+## 3.8.5.3 블록 복구
+## 3.8.5.4 파이프라인 복구

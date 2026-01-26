@@ -1,1 +1,1 @@
-﻿# 4-14-1 Scheduling Jobs with Apache Oozie
+﻿# 4.14.1 아파치 우지를 이용해 잡 스케줄링하기

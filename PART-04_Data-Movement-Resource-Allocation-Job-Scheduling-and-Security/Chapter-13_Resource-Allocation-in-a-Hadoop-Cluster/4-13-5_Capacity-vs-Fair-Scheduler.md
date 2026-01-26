@@ -1,3 +1,3 @@
-﻿# 4-13-5 Capacity vs Fair Scheduler
-## Similarities
-## Differences
+﻿# 4.13.5 Capacity 스케줄러와 Fair 스케줄러 비교
+## 4.13.5.1 두 스케줄러의 비슷한 점
+## 4.13.5.2 두 스케줄러의 차이점

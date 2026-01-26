@@ -1,3 +1,3 @@
-﻿# 2-7-7 Configuring Spark Applications
-## Spark Configuration Properties
-## spark submit Options
+﻿# 2.7.7 스파크 애플리케이션 설정하기
+## 2.7.7.1 스파크 설정 프로퍼티
+## 2.7.7.2 spark-submit을 실행할 때 설정할 수 있는 것

@@ -1,6 +1,6 @@
-﻿# 5-18-6 Hadoop Counters
-## File System Counters
-## Job Counters
-## MapReduce Framework Counters
-## Custom Java Counters
-## Setting Counter Limits
+﻿# 5.18.6 하둡 카운터
+## 5.18.6.1 파일 시스템 카운터
+## 5.18.6.2 잡 카운터
+## 5.18.6.3 맵리듀스 프레임워크 카운터
+## 5.18.6.4 커스텀 자바 카운터
+## 5.18.6.5 카운터에 한계 정하기

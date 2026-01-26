@@ -1,6 +1,6 @@
-﻿# 1-1-5 Key Differences between Hadoop 1 and Hadoop 2
-## Architecture Differences
-## High Availability Features
-## Multiple Processing Engines
-## Separation of Processing and Scheduling
-## Resource Allocation in Hadoop 1 vs Hadoop 2
+﻿# 1.1.5 하둡 1과 하둡 2의 주요 차이점
+## 1.1.5.1 아키텍처의 차이
+## 1.1.5.2 고가용성 기능들
+## 1.1.5.3 다중 처리 엔진들
+## 1.1.5.4 프로세싱과 스케줄링의 분리
+## 1.1.5.5 하둡 1과 하둡 2의 리소스 할당 방식

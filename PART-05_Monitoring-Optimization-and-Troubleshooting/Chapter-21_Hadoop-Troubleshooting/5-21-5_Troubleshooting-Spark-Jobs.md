@@ -1,5 +1,5 @@
-﻿# 5-21-5 Troubleshooting Spark Jobs
-## Spark Fault Tolerance
-## Killing Spark Jobs
-## Max Retry Count
-## Max Failures Per Job
+﻿# 5.21.5 스파크 잡 문제 해결하기
+## 5.21.5.1 스파크의 장애 허용 메커니즘
+## 5.21.5.2 스파크 잡 죽이기
+## 5.21.5.3 잡에 대한 재시도 최댓값
+## 5.21.5.4 잡당 최대 실패 횟수

@@ -1,4 +1,4 @@
-﻿# 5-21-4 Handling Failures by Type
-## Handling Daemon Failures
-## Hadoop Daemon Startup Issues
-## Task and Job Failures
+﻿# 5.21.4 실패 종류에 따른 처리
+## 5.21.4.1 데몬 실패 처리하기
+## 5.21.4.2 하둡 데몬의 실행 문제
+## 5.21.4.3 태스크와 잡 실패

@@ -1,3 +1,3 @@
-﻿# 3-9-3 HDFS Permissions and User Management
-## HDFS File Permissions
-## HDFS Users and Superusers
+﻿# 3.9.3 HDFS 퍼미션과 사용자 관리하기
+## 3.9.3.1 HDFS 파일 퍼미션
+## 3.9.3.2 HDFS 유저와 수퍼 유저

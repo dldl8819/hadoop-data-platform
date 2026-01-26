@@ -1,4 +1,4 @@
-﻿# 5-18-1 Allocating YARN Memory and CPU
-## Allocate Memory
-## Configure CPU Cores
-## Relationship between Memory and vCores
+﻿# 5.18.1 얀 메모리와 CPU를 할당하는 방법
+## 5.18.1.1 메모리 할당하기
+## 5.18.1.2 CPU 코어 배정 설정하기
+## 5.18.1.3 메모리와 CPU 가상 코어의 관계

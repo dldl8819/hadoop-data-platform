@@ -1,4 +1,4 @@
-﻿# 1-2-2 Hadoop Architecture
-## Hadoop Cluster
-## Master and Worker Nodes
-## Hadoop Services
+﻿# 1.2.2 하둡 아키텍처
+## 1.2.2.1 하둡 클러스터
+## 1.2.2.2 마스터 노드와 워커 노드
+## 1.2.2.3 하둡 서비스

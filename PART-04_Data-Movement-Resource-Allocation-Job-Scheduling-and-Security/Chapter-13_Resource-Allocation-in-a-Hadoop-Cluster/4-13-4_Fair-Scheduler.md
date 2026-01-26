@@ -1,10 +1,10 @@
-﻿# 4-13-4 Fair Scheduler
-## Queues
-## Configure Fair Scheduler
-## Assigning Jobs to Queues
-## Application Preemption in Fair Scheduler
-## Security and Resource Pools
-## Sample fair scheduler xml
-## Submitting Jobs to the Scheduler
-## Move Applications to Another Queue
-## Monitoring Fair Scheduler
+﻿# 4.13.4 Fair 스케줄러
+## 4.13.4.1 큐
+## 4.13.4.2 Fair 스케줄러 설정하기
+## 4.13.4.3 잡을 큐에 위치시키는 방법
+## 4.13.4.4 Fair 스케줄러에서 애플리케이션 선점
+## 4.13.4.5 보안과 리소스 풀
+## 4.13.4.6 간단한 fair-scheduler.xml 파일
+## 4.13.4.7 스케줄러에 잡 서밋하기
+## 4.13.4.8 애플리케이션을 다른 큐로 이동하기
+## 4.13.4.9 Fair 스케줄러 모니터링하기

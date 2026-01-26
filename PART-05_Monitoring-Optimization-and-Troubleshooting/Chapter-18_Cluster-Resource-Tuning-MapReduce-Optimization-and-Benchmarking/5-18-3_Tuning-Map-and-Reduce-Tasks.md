@@ -1,5 +1,5 @@
-﻿# 5-18-3 Tuning Map and Reduce Tasks
-## Tuning Map Tasks
-## Input and Output
-## Tuning Reduce Tasks
-## Tuning MapReduce Shuffle Process
+﻿# 5.18.3 맵과 리듀스 태스크 튜닝하기 - 관리자로서 할 수 있는 것
+## 5.18.3.1 맵 태스크 튜닝하기
+## 5.18.3.2 입력과 출력
+## 5.18.3.3 리듀스 태스크 튜닝하기
+## 5.18.3.4 맵리듀스 셔플 프로세스 튜닝하기

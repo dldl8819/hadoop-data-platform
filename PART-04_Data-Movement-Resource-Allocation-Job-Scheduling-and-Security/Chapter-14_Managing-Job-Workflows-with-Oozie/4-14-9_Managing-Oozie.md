@@ -1,4 +1,4 @@
-﻿# 4-14-9 Managing Oozie
-## Common Oozie Commands
-## Oozie Troubleshooting
-## Oozie Scheduling and SLAs
+﻿# 4.14.9 우지 관리하기
+## 4.14.9.1 자주 사용하는 우지 명령과 실행 방법
+## 4.14.9.2 우지 트러블슈팅
+## 4.14.9.3 우지의 스케줄링 및 서비스 수준

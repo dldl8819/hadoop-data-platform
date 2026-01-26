@@ -1,3 +1,3 @@
-﻿# 3-8-1 HDFS NameNode and DataNode Interactions
-## Client to HDFS Interactions
-## NameNode to DataNode Communication
+﻿# 3.8.1 HDFS - 네임노드와 데이터노드 사이의 상호 연동
+## 3.8.1.1 클라이언트와 HDFS 간의 상호 연동
+## 3.8.1.2 네임노드와 데이터노드 간의 통신

@@ -1,3 +1,3 @@
-﻿# 5-17-1 Monitoring Linux Servers
-## Linux System Monitoring Basics
-## Linux Monitoring Tools
+﻿# 5.17.1 리눅스 서버 모니터링하기
+## 5.17.1.1 리눅스 시스템 모니터링의 기초
+## 5.17.1.2 리눅스 시스템의 모니터링 툴

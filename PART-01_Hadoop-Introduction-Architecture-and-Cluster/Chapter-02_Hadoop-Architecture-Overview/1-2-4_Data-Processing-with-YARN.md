@@ -1,3 +1,3 @@
-﻿# 1-2-4 Data Processing with YARN
-## YARN Architecture
-## How ApplicationMaster Works with ResourceManager
+﻿# 1.2.4 하둡 운영 시스템인 얀을 사용한 데이터 프로세싱
+## 1.2.4.1 얀의 아키텍처
+## 1.2.4.2 리소스를 할당하기 위해 애플리케이션마스터가 리소스매니저와 협력하는 방법

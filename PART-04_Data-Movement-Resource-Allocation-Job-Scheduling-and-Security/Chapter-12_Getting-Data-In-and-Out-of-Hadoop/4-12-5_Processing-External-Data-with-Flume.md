@@ -1,6 +1,6 @@
-﻿# 4-12-5 Processing External Data with Flume
-## Flume Architecture Overview
-## Configure Flume Agents
-## Simple Flume Example
-## Move Data to HDFS with Flume
-## More Complex Flume Use Cases
+﻿# 4.12.5 플룸을 이용해 외부에서 들어오는 데이터 처리하기
+## 4.12.5.1 플룸 아키텍처 간략히 살펴보기
+## 4.12.5.2 플룸 에이전트 설정하기
+## 4.12.5.3 간단한 플룸 사용 예
+## 4.12.5.4 플룸으로 데이터를 HDFS로 이동하기
+## 4.12.5.5 더 복잡한 플룸 사용 사례

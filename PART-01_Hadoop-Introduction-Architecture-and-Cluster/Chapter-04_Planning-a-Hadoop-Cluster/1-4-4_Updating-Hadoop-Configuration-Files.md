@@ -1,5 +1,5 @@
-﻿# 1-4-4 Updating Hadoop Configuration Files
-## Modify HDFS Settings hdfs site xml
-## Update HDFS Parameters
-## Update YARN Settings
-## Update MapReduce Settings
+﻿# 1.4.4 하둡 설정 파일 수정하기
+## 1.4.4.1 HDFS 설정 변경(hdfs-site.xml 파일)
+## 1.4.4.2 HDFS 매개변수 수정하기
+## 1.4.4.3 얀 설정 수정
+## 1.4.4.4 맵리듀스 설정 변경하기

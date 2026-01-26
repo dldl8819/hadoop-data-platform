@@ -1,3 +1,3 @@
-﻿# 1-1-2 Cluster Computing and Hadoop Clusters
-## Cluster Computing
-## Hadoop Clusters
+﻿# 1.1.2 클러스터 컴퓨팅과 하둡 클러스터들
+## 1.1.2.1 클러스터 컴퓨팅
+## 1.1.2.2 하둡 클러스터들

@@ -1,4 +1,4 @@
-﻿# 5-16-3 ResourceManager High Availability Configuration
-## ResourceManager HA Architecture
-## ResourceManager Failover
-## Control ResourceManager HA with CLI
+﻿# 5.16.3 리소스매니저 고가용 설정(HA 설정)
+## 5.16.3.1 리소스매니저의 고가용 아키텍처
+## 5.16.3.2 리소스매니저 장애 극복(Failover)
+## 5.16.3.3 리소스매니저 고가용(HA) 커맨드로 제어하기

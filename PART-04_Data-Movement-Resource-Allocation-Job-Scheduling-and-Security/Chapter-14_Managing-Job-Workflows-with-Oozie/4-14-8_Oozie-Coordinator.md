@@ -1,5 +1,5 @@
-﻿# 4-14-8 Oozie Coordinator
-## Time Based Coordinator
-## Data Based Coordinator
-## Time and Data Based Coordinator
-## Submit Oozie Coordinator from CLI
+﻿# 4.14.8 우지 코디네이터
+## 4.14.8.1 시간 기반 코디네이터
+## 4.14.8.2 데이터 기반 코디네이터
+## 4.14.8.3 시간과 데이터 기반 코디네이터
+## 4.14.8.4 명령 행으로 우지 코디네이터 서밋하기

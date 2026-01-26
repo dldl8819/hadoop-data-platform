@@ -1,4 +1,4 @@
-﻿# 5-19-7 Spark Streaming Applications
-## Reducing Batch Processing Time
-## Setting Appropriate Batch Interval
-## Tuning Memory and GC
+﻿# 5.19.7 스파크 스트리밍 애플리케이션
+## 5.19.7.1 배치 프로세싱 시간 줄이기
+## 5.19.7.2 올바른 배치 간격(Batch Interval) 설정하기
+## 5.19.7.3 메모리 및 가비지 컬렉션(GC) 튜닝

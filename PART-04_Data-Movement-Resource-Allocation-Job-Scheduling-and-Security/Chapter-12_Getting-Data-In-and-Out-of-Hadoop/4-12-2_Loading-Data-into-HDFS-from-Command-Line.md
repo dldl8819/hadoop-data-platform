@@ -1,7 +1,7 @@
-﻿# 4-12-2 Loading Data into HDFS from Command Line
-## Dump File Contents with cat
-## Test HDFS Files
-## Copy and Move Between HDFS and Local
-## Move Files with get
-## Get and Put Files
-## Using tail and head
+﻿# 4.12.2 명령행을 통해 HDFS에 데이터 로딩하기
+## 4.12.2.1 -cat 명령을 사용해 파일 내용 덤프하기
+## 4.12.2.2 HDFS 파일 테스트하기
+## 4.12.2.3 HDFS로 로컬 파일 시스템 간의 파일 복사 및 이동
+## 4.12.2.4 -get 명령으로 파일 옮기기
+## 4.12.2.5 HDFS에서 파일을 가져오거나 넣기
+## 4.12.2.6 -tail과 head 명령 사용법

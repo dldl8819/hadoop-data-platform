@@ -1,5 +1,5 @@
-﻿# 1-1-8 Core Areas of Hadoop Administration
-## Cluster Storage Management
-## Cluster Resource Allocation
-## Job Scheduling
-## Hadoop Data Security
+﻿# 1.1.8 하둡 관리의 핵심 영역
+## 1.1.8.1 클러스터 스토리지 관리
+## 1.1.8.2 클러스터 리소스 할당
+## 1.1.8.3 잡 스케줄링
+## 1.1.8.4 하둡 데이터 보안

@@ -1,5 +1,5 @@
-﻿# 2-6-4 Installing Spark
-## Spark Examples
-## Important Spark Files and Directories
-## Compiling Spark Binaries
-## Reducing Spark Log Verbosity
+﻿# 2.6.4 스파크 설치하기
+## 2.6.4.1 스파크의 예제들
+## 2.6.4.2 스파크의 중요한 파일과 디렉토리들
+## 2.6.4.3 스파크 바이너리 컴파일하기
+## 2.6.4.4 스파크 로그의 상세 정도 줄이기

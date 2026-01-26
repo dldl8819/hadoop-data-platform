@@ -1,5 +1,5 @@
-﻿# 5-21-1 Storage Capacity Issues
-## Using a Full Linux File System
-## HDFS Capacity Issues
-## No Free Space in local and log Directories
-## Handling Disk Volume Issues
+﻿# 5.21.1 저장 용량 관련 이슈들
+## 5.21.1.1 100%로 가득 차 있는 리눅스 파일 시스템 사용하기
+## 5.21.1.2 HDFS 용량 문제
+## 5.21.1.3 local과 log 디렉토리에 여유 공간이 없을 때
+## 5.21.1.4 디스크 볼륨 문제에 대한 대응

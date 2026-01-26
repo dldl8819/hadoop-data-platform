@@ -1,3 +1,3 @@
-﻿# 1-4-5 Starting the Cluster
-## Start and Stop with Scripts
-## Quickly Check New Cluster File System
+﻿# 1.4.5 클러스터 시작하기
+## 1.4.5.1 스크립트로 클러스터 시작하고 종료하기
+## 1.4.5.2 새로운 클러스터 파일 시스템을 빠르게 점검하기

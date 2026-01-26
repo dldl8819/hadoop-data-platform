@@ -1,3 +1,3 @@
-﻿# 4-15-5 Securing Hadoop Data
-## HDFS Transparent Encryption
-## Encryption in Transit
+﻿# 4.15.5 하둡 데이터 안전하게 보관하기
+## 4.15.5.1 HDFS 트랜스패런트 암호화
+## 4.15.5.2 데이터 전송 시 암호화

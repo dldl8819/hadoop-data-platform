@@ -1,4 +1,4 @@
-﻿# 4-14-2 Oozie Architecture
-## Oozie Server
-## Oozie Client
-## Oozie Database
+﻿# 4.14.2 우지의 아키텍처
+## 4.14.2.1 우지 서버
+## 4.14.2.2 우지 클라이언트
+## 4.14.2.3 우지 데이터베이스

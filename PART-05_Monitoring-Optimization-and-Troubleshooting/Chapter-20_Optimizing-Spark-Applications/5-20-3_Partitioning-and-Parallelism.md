@@ -1,8 +1,8 @@
-﻿# 5-20-3 Partitioning and Parallelism
-## Degree of Parallelism
-## Too Few Tasks
-## Set Default Partition Count
-## Increase Partition Count
-## Repartition and Coalesce
-## Two Types of Partitioners
-## Data Partitioning to Avoid Shuffles
+﻿# 5.20.3 파티셔닝과 병렬성(태스크의 수)
+## 5.20.3.1 병렬 처리 정도
+## 5.20.3.2 너무 적은 태스크 문제
+## 5.20.3.3 파티션 수의 기본값 설정하기
+## 5.20.3.4 파티션의 수를 증가시키는 방법
+## 5.20.3.5 RDD의 파티션 수를 바꾸기 위해 Repartition과 Coalesce 오퍼레이션을 사용하라.
+## 5.20.3.6 두 가지 타입의 파티셔너
+## 5.20.3.7 데이터 파티셔닝 그리고 셔플을 막을 수 있는 방법

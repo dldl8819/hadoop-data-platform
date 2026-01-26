@@ -1,2 +1,2 @@
-﻿# 5-20-1 Revisiting the Spark Execution Model
-## Spark Execution Model
+﻿# 5.20.1 스파크 실행 모델 다시 보기
+## 5.20.1.1 스파크 실행 모델

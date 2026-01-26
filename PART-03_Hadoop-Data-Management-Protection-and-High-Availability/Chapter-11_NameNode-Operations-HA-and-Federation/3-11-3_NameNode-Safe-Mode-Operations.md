@@ -1,5 +1,5 @@
-﻿# 3-11-3 NameNode Safe Mode Operations
-## Automatic Safe Mode Operations
-## Putting NameNode into Safe Mode
-## How NameNode Transitions with Safe Mode
-## Backup and Restore NameNode Metadata
+﻿# 3.11.3 네임노드의 안전 모드 오퍼레이션
+## 3.11.3.1 자동 안전 모드 오퍼레이션
+## 3.11.3.2 네임노드를 안전 모드로 만들기
+## 3.11.3.3 네임노드가 안전 모드를 통해 상태를 전환하는 방법
+## 3.11.3.4 네임노드 메타데이터 백업과 복원

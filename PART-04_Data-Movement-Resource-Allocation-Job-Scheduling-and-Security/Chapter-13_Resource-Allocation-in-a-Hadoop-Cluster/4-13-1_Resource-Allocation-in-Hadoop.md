@@ -1,3 +1,3 @@
-﻿# 4-13-1 Resource Allocation in Hadoop
-## Managing Cluster Workloads
-## Hadoop Resource Schedulers
+﻿# 4.13.1 하둡에서 리소스 할당
+## 4.13.1.1 클러스터의 작업량 관리하기
+## 4.13.1.2 하둡의 리소스 스케줄러

@@ -1,1 +1,1 @@
-﻿# 2-7-8 Monitoring Spark Applications
+﻿# 2.7.8 스파크 애플리케이션 모니터링

@@ -1,3 +1,3 @@
-﻿# 5-20-6 Caching Data
-## Fault Tolerance with Caching
-## How to Cache
+﻿# 5.20.6 데이터 캐시하기
+## 5.20.6.1 캐시를 통한 장애허용(Fault-Tolerance)
+## 5.20.6.2 캐시를 설정하는 방법

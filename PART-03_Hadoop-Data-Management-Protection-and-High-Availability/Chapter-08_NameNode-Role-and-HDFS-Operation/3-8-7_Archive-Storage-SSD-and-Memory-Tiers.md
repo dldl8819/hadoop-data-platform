@@ -1,9 +1,9 @@
-﻿# 3-8-7 Archive Storage SSD and Memory Tiers
-## Performance Characteristics by Storage Type
-## Need for Heterogeneous HDFS Storage
-## Storage Architecture Evolution
-## Storage Policies for Files
-## Configure Archive Storage
-## Storage Policy Management
-## Move Data
-## Create Archive Storage
+﻿# 3.8.7 하둡의 아카이브 스토리지, SSD와 메모리(이종 스토리지)
+## 3.8.7.1 스토리지 타입에 따른 성능상의 특징들
+## 3.8.7.2 이기종 HDFS 스토리지의 필요성
+## 3.8.7.3 스토리지 아키텍처의 변화
+## 3.8.7.4 파일에 대한 스토리지 설정
+## 3.8.7.5 아카이브 스토리지 설정
+## 3.8.7.6 스토리지 정책 관리
+## 3.8.7.7 데이터 이동하기
+## 3.8.7.8 아카이브 스토리지 만들기

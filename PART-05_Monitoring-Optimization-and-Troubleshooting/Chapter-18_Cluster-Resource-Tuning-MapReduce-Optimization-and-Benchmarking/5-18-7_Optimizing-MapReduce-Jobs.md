@@ -1,6 +1,6 @@
-﻿# 5-18-7 Optimizing MapReduce Jobs
-## Map Only and MapReduce Jobs
-## Improve Performance with Combiners
-## Improve Performance with Partitioners
-## Compress Data During MapReduce
-## Too Many Mappers or Reducers
+﻿# 5.18.7 맵리듀스 최적화하기
+## 5.18.7.1 맵만 있는 잡과 맵과 리듀스가 있는 잡
+## 5.18.7.2 컴바이너로 맵리듀스 성능을 높이는 방법
+## 5.18.7.3 파티셔너를 이용해 성능 높이기
+## 5.18.7.4 맵리듀스 프로세스 중에 데이터 압축하기
+## 5.18.7.5 너무 많은 맵퍼 또는 리듀서를 사용한다면?

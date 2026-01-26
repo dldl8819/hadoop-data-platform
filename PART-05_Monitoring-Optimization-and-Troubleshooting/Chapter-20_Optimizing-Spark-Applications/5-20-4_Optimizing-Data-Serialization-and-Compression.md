@@ -1,3 +1,3 @@
-﻿# 5-20-4 Optimizing Data Serialization and Compression
-## Data Serialization
-## Configure Compression
+﻿# 5.20.4 데이터 직렬화 및 압축의 최적화
+## 5.20.4.1 데이터 직렬화
+## 5.20.4.2 압축 설정하기

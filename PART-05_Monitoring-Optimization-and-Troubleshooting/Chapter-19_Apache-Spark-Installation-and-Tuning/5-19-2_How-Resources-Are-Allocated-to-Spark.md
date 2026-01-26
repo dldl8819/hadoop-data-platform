@@ -1,8 +1,8 @@
-﻿# 5-19-2 How Resources Are Allocated to Spark
-## Limit Spark Application Resources
-## Allocate Driver Resources
-## Configure Executor Resources
-## How Spark Uses Memory
-## Key Things to Remember
-## Cluster Mode vs Client Mode
-## Configure Spark Network Parameters
+﻿# 5.19.2 리소스가 스파크에 어떻게 할당되는가?
+## 5.19.2.1 스파크 애플리케이션 리소스 할당 제한하기
+## 5.19.2.2 드라이버에 리소스 할당하기
+## 5.19.2.3 익스큐터에 대한 리소스 설정하기
+## 5.19.2.4 스파크가 메모리를 사용하는 방법
+## 5.19.2.5 기억해야 할 것들
+## 5.19.2.6 클러스터 모드 또는 클라이언트 모드
+## 5.19.2.7 스파크의 네트워크 매개변수 설정하기

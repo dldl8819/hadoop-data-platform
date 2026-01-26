@@ -1,3 +1,3 @@
-﻿# 4-14-4 Understanding Oozie Workflows
-## Workflows Control Flow and Nodes
-## Define Workflows with workflow xml
+﻿# 4.14.4 우지 워크플로 이해하기
+## 4.14.4.1 워크플로, 컨트롤 플로 그리고 노드
+## 4.14.4.2 workflow.xml 파일을 갖고 워크플로 정의하기

@@ -1,4 +1,4 @@
-﻿# 2-7-5 Spark Shell and Spark Applications
-## About Spark Shell
-## Using Spark Shell
-## Overview of Running Spark on a Cluster
+﻿# 2.7.5 스파크 셸과 스파크 애플리케이션
+## 2.7.5.1 스파크 셸에 대해
+## 2.7.5.2 스파크 셸 사용하기
+## 2.7.5.3 스파크 클러스터 실행에 대한 개요

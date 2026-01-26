@@ -1,5 +1,5 @@
-﻿# 5-16-7 Managing the Cluster with Hue
-## Allow Users to Access Hue
-## Install Hue
-## Configure Cluster for Hue
-## Integrate with Hue
+﻿# 5.16.7 휴로 클러스터 관리하기
+## 5.16.7.1 사용자에게 휴를 사용할 수 있도록 허용하기
+## 5.16.7.2 휴 설치
+## 5.16.7.3 휴를 사용할 수 있도록 클러스터 설정하기
+## 5.16.7.4 휴와 연동하기

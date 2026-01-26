@@ -1,3 +1,3 @@
-﻿# 4-12-3 Copying HDFS Data Between Clusters with DistCp
-## Move Data with DistCp
-## DistCp Options
+﻿# 4.12.3 DistCp를 이용해 클러스터 사이에 HDFS 데이터 복사하기
+## 4.12.3.1 DistCp 명령을 이용해 데이터 옮기기
+## 4.12.3.2 DistCp 옵션

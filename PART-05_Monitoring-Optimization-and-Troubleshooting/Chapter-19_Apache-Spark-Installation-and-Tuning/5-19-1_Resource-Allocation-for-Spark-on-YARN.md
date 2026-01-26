@@ -1,3 +1,3 @@
-﻿# 5-19-1 Resource Allocation for Spark on YARN
-## Allocate CPU
-## Allocate Memory
+﻿# 5.19.1 얀 위에서 동작하는 스파크를 위한 리소스 할당 설정하기
+## 5.19.1.1 CPU 할당하기
+## 5.19.1.2 메모리 할당하기

@@ -1,2 +1,2 @@
-﻿# 4-15-1 Overview of Hadoop Security
-## Authentication Authorization and Accounts
+﻿# 4.15.1 하둡 보안의 개요
+## 4.15.1.1 인증, 인가 그리고 계정

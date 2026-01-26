@@ -1,4 +1,4 @@
-﻿# 3-8-3 HDFS Data Replication
-## HDFS Data Management and Blocks
-## Data Replication
-## Block and Replica States
+﻿# 3.8.3 HDFS의 데이터 복제
+## 3.8.3.1 HDFS 데이터 관리 및 데이터 블록
+## 3.8.3.2 데이터 복제
+## 3.8.3.3 블록과 복제본의 상태

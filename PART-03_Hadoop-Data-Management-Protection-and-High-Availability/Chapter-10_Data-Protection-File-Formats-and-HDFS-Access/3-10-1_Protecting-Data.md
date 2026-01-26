@@ -1,4 +1,4 @@
-﻿# 3-10-1 Protecting Data
-## Prevent Accidental Deletes with HDFS Trash
-## Use HDFS Snapshots for Critical Data
-## Verify Data Integrity with FSCK
+﻿# 3.10.1 데이터 보호하기
+## 3.10.1.1 HDFS 휴지통 기능으로 실수로 데이터를 삭제하는 일 방지하기
+## 3.10.1.2 중요한 데이터를 보관하기 위해 HDFS 스냅샷 사용하기
+## 3.10.1.3 파일 시스템 검사를 통한 데이터 무결성 검증하기

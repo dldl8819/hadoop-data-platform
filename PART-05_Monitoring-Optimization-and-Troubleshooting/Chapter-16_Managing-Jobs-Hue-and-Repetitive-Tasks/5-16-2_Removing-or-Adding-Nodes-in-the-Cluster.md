@@ -1,6 +1,6 @@
-﻿# 5-16-2 Removing or Adding Nodes in the Cluster
-## Include or Exclude Hosts
-## Decommission DataNodes and NodeManagers
-## Recommission Nodes
-## Considerations for Decommission and Recommission
-## Add New DataNodes and NodeManagers
+﻿# 5.16.2 노드를 클러스터에서 빼거나 추가하기
+## 5.16.2.1 클러스터 호스트를 포함시키거나 제외하기
+## 5.16.2.2 데이터노드와 노드매니저 디커미션하기
+## 5.16.2.3 노드를 리커미션하기
+## 5.16.2.4 디커미션과 리커미션 과정에서 기억하고 있어야 할 것들
+## 5.16.2.5 새로운 데이터노드와 노드매니저 추가하기

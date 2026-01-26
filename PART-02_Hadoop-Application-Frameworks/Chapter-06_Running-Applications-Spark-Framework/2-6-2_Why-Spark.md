@@ -1,6 +1,6 @@
-﻿# 2-6-2 Why Spark
-## Speed
-## Ease of Use and Access
-## Concise and Simple
-## Multipurpose Framework
-## Spark and Hadoop
+﻿# 2.6.2 왜 스파크인가?
+## 2.6.2.1 속도
+## 2.6.2.2 사용과 접근의 용이함
+## 2.6.2.3 간결함과 간편함
+## 2.6.2.4 다목적 프레임워크
+## 2.6.2.5 스파크와 하둡

@@ -1,1 +1,1 @@
-﻿# 5-21-2 Handling Stuck YARN Jobs
+﻿# 5.21.2 얀의 멈춘 잡 처리하기

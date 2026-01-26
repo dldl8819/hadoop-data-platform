@@ -1,3 +1,3 @@
-﻿# 5-18-5 Cluster Benchmarking
-## TestDFSIO IO Performance
-## TeraSort Performance
+﻿# 5.18.5 클러스터 벤치마킹
+## 5.18.5.1 TestDFSIO를 사용해 I/O 성능 테스트하기
+## 5.18.5.2 테라소트를 이용한 성능 측정

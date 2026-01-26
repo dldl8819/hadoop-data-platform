@@ -1,5 +1,5 @@
-﻿# 5-16-8 Using Special HDFS Features
-## Install HDFS and YARN on Multi Homed Networks
-## Short Circuit Local Read
-## Mountable HDFS
-## Mount HDFS with NFS Gateway
+﻿# 5.16.8 특별한 HDFS 기능 사용하기
+## 5.16.8.1 멀티홈드 네트워크에 HDFS와 얀 설치하기
+## 5.16.8.2 숏서킷 로컬 리드
+## 5.16.8.3 마운터블 HDFS
+## 5.16.8.4 NFS 게이트웨이를 이용해 HDFS를 로컬 파일 시스템에 마운트시키기

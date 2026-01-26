@@ -1,4 +1,4 @@
-﻿# 4-14-7 Running Oozie Workflow Jobs
-## Configure Job Properties
-## Deploy Oozie Jobs
-## Create Dynamic Workflows
+﻿# 4.14.7 우지 워크플로 잡 실행하기
+## 4.14.7.1 잡 프로퍼티 설정하기
+## 4.14.7.2 우지 잡 배포하기
+## 4.14.7.3 동적 워크플로 생성하기

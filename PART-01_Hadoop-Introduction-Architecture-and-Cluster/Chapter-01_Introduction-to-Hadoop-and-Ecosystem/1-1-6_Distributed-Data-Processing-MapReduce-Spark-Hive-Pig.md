@@ -1,3 +1,3 @@
-﻿# 1-1-6 Distributed Data Processing MapReduce Spark Hive Pig
-## MapReduce
-## Apache Spark
+﻿# 1.1.6 분산형 데이터 처리: 맵리듀스, 스파크, 하이브, 피그
+## 1.1.6.1 맵리듀스
+## 1.1.6.2 아파치 스파크

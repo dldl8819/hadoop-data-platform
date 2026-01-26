@@ -1,3 +1,3 @@
-﻿# 2-5-3 Apache Pig
-## Pig Execution Modes
-## Simple Pig Example
+﻿# 2.5.3 아파치 피그
+## 2.5.3.1 피그 실행 모드
+## 2.5.3.2 간단한 피그의 예시

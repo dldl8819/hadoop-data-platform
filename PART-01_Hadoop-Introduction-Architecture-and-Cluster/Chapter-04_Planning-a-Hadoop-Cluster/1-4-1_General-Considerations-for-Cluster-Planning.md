@@ -1,3 +1,3 @@
-﻿# 1-4-1 General Considerations for Cluster Planning
-## Server Components
-## Node Selection Criteria
+﻿# 1.4.1 클러스터를 계획할 때 일반적으로 고려해야 할 것들
+## 1.4.1.1 서버 구성 요소
+## 1.4.1.2 노드를 선택하는 기준

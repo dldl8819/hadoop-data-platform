@@ -1,10 +1,10 @@
-﻿# 4-15-2 Authenticating with Kerberos
-## How Kerberos Works
-## Kerberos Authentication Process
-## Kerberos Trusts
-## Special Principals
-## Add Kerberos to a Cluster
-## Configure Hadoop for Kerberos
-## Protect a Hadoop Cluster with Kerberos
-## How Kerberos Authenticates Users and Services
-## Managing Kerberos Enabled Hadoop Clusters
+﻿# 4.15.2 커버로스로 하둡 인증하기
+## 4.15.2.1 커버로스와 동작 원리
+## 4.15.2.2 커버로스 인증 프로세스
+## 4.15.2.3 커버로스 트러스트
+## 4.15.2.4 특별 프린시플
+## 4.15.2.5 클러스터에 커버로스 인증 추가하기
+## 4.15.2.6 하둡을 위한 커버로스 설정하기
+## 4.15.2.7 커버로스를 사용해 하둡 클러스터 보호하기
+## 4.15.2.8 커버로스가 사용자와 서비스를 인증하는 방법
+## 4.15.2.9 커버로스를 사용하는 하둡 클러스터 관리하기
